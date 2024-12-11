@@ -1,0 +1,8 @@
+{
+    "versions": [
+      {
+        "version": "0.0.3",
+        "src": "https://github.com/abonetwork/iwa-test-repo/blob/main/iwa-sink.swbn",
+        "channels": ["default"]
+      }
+}
